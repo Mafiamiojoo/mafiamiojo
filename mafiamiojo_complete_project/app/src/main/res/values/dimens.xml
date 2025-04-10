@@ -1,0 +1,5 @@
+
+<resources>
+    <dimen name="table_width">2400px</dimen>
+    <dimen name="table_height">1080px</dimen>
+</resources>
